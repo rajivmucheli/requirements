@@ -102,7 +102,7 @@ ply===3.11
 google-api-core===2.0.1
 requests-toolbelt===0.9.1
 simplejson===3.17.5
-suds-jurko>=0.6
+suds-jurko>0.6
 types-paramiko===0.1.9
 immutables===0.16
 python-swiftclient===3.12.0
